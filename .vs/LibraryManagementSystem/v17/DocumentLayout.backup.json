@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pittu\\onedrive - saggi solutions\\tasks\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pittu\\onedrive - saggi solutions\\tasks\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pittu\\onedrive - saggi solutions\\tasks\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pittu\\onedrive - saggi solutions\\tasks\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pittu\\onedrive - saggi solutions\\tasks\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\profile\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86640A0-4B8C-4B17-8060-3142B4463BB7}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.application\\interfaces\\profile\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:07:03.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:06:57.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\Profile\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\Profile\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\Profile\\MappingProfiles.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.Application\\Interfaces\\Profile\\MappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:06:46.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:18:34.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\pittu\\OneDrive - Saggi Solutions\\Tasks\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:25:12.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
