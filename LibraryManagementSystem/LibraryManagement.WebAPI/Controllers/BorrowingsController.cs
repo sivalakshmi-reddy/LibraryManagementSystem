@@ -14,7 +14,7 @@ namespace LibraryManagementSystem.LibraryManagement.WebAPI.Controllers
     {
         private readonly IMediator _mediator;
 
-        public BorrowingsController(IMediator _mediator)
+        public BorrowingsController(IMediator mediator)
         {
             _mediator = mediator;
         }
